@@ -1,6 +1,4 @@
-# Bohemia
-
-Gameplay programmer test task: Fire-spreading simulation
+Task: Fire-spreading simulation
 
 The goal of this task is to create a simple system simulating the spreading of fire among plants while taking into account the direction and speed of the wind. For this task please use free personal version of Unity3D engine that can be downloaded at www.unity3d.com.
 
